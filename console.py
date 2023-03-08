@@ -2,7 +2,7 @@
 """
 This is the console base for the unit
 """
-impost cmd
+import cmd
 from models.base_model import BaseModel
 from models import storage
 import json
